@@ -1,0 +1,11 @@
+D:\ProgramPractice\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.deps.json
+D:\ProgramPractice\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.dll
+D:\ProgramPractice\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.pdb
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.AssemblyInfoInputs.cache
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.AssemblyInfo.cs
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.csproj.CoreCompileInputs.cache
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.dll
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\refint\NeuronNetwork.dll
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.pdb
+D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\ref\NeuronNetwork.dll
