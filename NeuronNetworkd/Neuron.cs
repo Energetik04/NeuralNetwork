@@ -46,7 +46,7 @@ namespace NeuronNetwork
 
         private double Sigmoid(double x)
         {
-            var result = 1.0 / (1.0 + Math.Pow(Math.E, x));
+            var result = 1.0 / (1.0 + Math.Pow(Math.E, -x));
             return result;
         }
 

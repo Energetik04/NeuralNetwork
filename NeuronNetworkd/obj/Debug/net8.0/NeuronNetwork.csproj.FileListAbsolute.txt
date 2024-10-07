@@ -9,3 +9,15 @@ D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.dll
 D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\refint\NeuronNetwork.dll
 D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.pdb
 D:\ProgramPractice\NeuronNetworkd\obj\Debug\net8.0\ref\NeuronNetwork.dll
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.deps.json
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.dll
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\bin\Debug\net8.0\NeuronNetwork.pdb
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.AssemblyInfoInputs.cache
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.AssemblyInfo.cs
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.csproj.CoreCompileInputs.cache
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.sourcelink.json
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.dll
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\refint\NeuronNetwork.dll
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\NeuronNetwork.pdb
+D:\ProgramPractice\NeuralNetwork\NeuronNetworkd\obj\Debug\net8.0\ref\NeuronNetwork.dll

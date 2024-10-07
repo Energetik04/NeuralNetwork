@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProgramPractice\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
+      "projectUniqueName": "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
       "projectName": "NeuronNetworkTests",
-      "projectPath": "D:\\ProgramPractice\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
+      "projectPath": "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
       "packagesPath": "C:\\Users\\rnosevich\\.nuget\\packages\\",
-      "outputPath": "D:\\ProgramPractice\\NeuronNetworkTests\\obj\\",
+      "outputPath": "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnosevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1040,8 +1040,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProgramPractice\\NeuronNetworkd\\NeuronNetwork.csproj": {
-              "projectPath": "D:\\ProgramPractice\\NeuronNetworkd\\NeuronNetwork.csproj"
+            "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkd\\NeuronNetwork.csproj": {
+              "projectPath": "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkd\\NeuronNetwork.csproj"
             }
           }
         }

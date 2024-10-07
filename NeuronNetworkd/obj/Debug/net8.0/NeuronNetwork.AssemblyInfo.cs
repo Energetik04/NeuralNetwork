@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeuronNetwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb67d5f9fbff929a707343dfbdf7d401abd096d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeuronNetwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeuronNetwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

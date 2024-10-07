@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M0IY5YtHzdU=",
+  "dgSpecHash": "OOLR3iBKAj8=",
   "success": true,
-  "projectFilePath": "D:\\ProgramPractice\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
+  "projectFilePath": "D:\\ProgramPractice\\NeuralNetwork\\NeuronNetworkTests\\NeuronNetworkTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rnosevich\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\rnosevich\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
